@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Ruby</h3>
+<h3 align="left">Hi There👋, </h3>
 <h6 align="left">Ror44is a professional software engineer with over 20 years of experience. He has successfully led the creation and growth of industry awarded software titles for both desktop and mobile applications.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ror44&label=Profile%20views&color=0e75b6&style=flat" alt="ror44" /> </p>
